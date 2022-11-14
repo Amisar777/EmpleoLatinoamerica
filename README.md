@@ -14,7 +14,7 @@ Este repositorio es creado para poder registrar todo el proyecto de la clase de 
 •	Visualizar la diferencia que hay dentro del agro con respecto a la desigualdad de genero.
 
 # Problema 
-
+Imaginemos que un gobierno quiere saber cuentas personas trabajan en el rubro del agro, con este trabajo podran tener una imagen clarsa de ello, ademas de saber cuantos hombres y mujeres trabajan en el mencionado rubro.
 
 # Solución Propuesta 
 Con el analisis de datos que se realizo se podria ayudar a una persona interesada y capacitada para ingresar a este emrcado laboral con informacion de donde su conocimiento y su trabajo es mas requerido.
@@ -31,3 +31,14 @@ Hicimos un desglose por subcontinente,
 ![image](https://user-images.githubusercontent.com/8016784/201752687-5af9cf61-fc1d-4ab0-b917-a23d985f599e.png)
 3. Sudamérica 
 ![image](https://user-images.githubusercontent.com/8016784/201758043-87d83819-4c19-4988-97f4-6543358e6d35.png)
+
+# Referencias 
+Jupyter. (2022). Jupyter.org. Retrieved from https://jupyter.org/
+
+matplotlib. (2022). matplotlib. Retrieved from https://matplotlib.org/
+
+Pandas. (2022). Pandas. Retrieved from NumFOCUS: https://pandas.pydata.org/
+
+FAO. (2022). FAO. Retrieved from Datos: https://www.fao.org/faostat/es/#data/OEA
+
+
